@@ -12,7 +12,7 @@ Este é um exemplo prático de como integrar a API do Notion com uma aplicação
 
 1. Clone este repositório
 2. Execute `npm install` para instalar as dependências
-3. Crie um arquivo `.env` na raiz do projeto e adicione seu token de integração:
+3. Crie um arquivo `.env` na raiz do projeto e adicione seu token de integração fiz um exemplo de .env exemple:
 
 ```
 NOTION_API_TOKEN=seu_token_aqui
