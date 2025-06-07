@@ -1,0 +1,23 @@
+{
+  "name": "notion-integration-example",
+  "version": "1.0.0",
+  "description": "Exemplo de integração com a API do Notion",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "notion",
+    "api",
+    "integration",
+    "example"
+  ],
+  "author": "Manus AI",
+  "license": "MIT",
+  "dependencies": {
+    "@notionhq/client": "^2.2.14",
+    "dotenv": "^16.3.1"
+  }
+}
+
